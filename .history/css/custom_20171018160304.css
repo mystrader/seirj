@@ -1,0 +1,101 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	to SEIRJ - sefaz
+-----------------------------------------------------------------*/
+
+
+
+.imagem-banner:hover{opacity: 0.8}
+.footer-stick{margin:0px;}
+.btn-menu-tosei{height: 38px!important;	padding: 9px 17px !important;margin-top: 32px!important;color: #fff!important;}    
+
+
+right: -1px;
+font-size: 22px;
+#content{background-color: #f9f9f9;}		
+	/*ADD fragment > custom.css */
+	.footer-stick {margin: 0px;}
+	#footer.dark, .dark #footer {
+	background-color: #043349;
+	color: #CCC;
+	border-top-color: #032230;
+	margin-top: 32px;
+	}
+	.content-wrap{padding: 0px 0;}
+	.content-wrap >  section{padding: 0px 0;}
+	.top-govpadrao {
+    background-color: #1a2b61;
+    height: 25px;
+    border-bottom: 7px solid #fff!important;
+    -webkit-box-shadow: -1px 2px 5px 0px rgba(163,163,163,1);
+    -moz-box-shadow: -1px 2px 5px 0px rgba(163,163,163,1);
+    box-shadow: -1px 2px 5px 0px rgba(163,163,163,1);
+	}
+	#top-bar {
+		position: relative;
+		border-top: 2px solid rgba(204, 204, 204, 0.3);
+		border-bottom: 1px solid #EEE;
+	}
+
+	.spost, .mpost {
+    border-top: 0px;
+}
+#content p { 
+    font-size: 1.2em;
+}		
+
+	/*Noticias*/
+	.ipost .entry-title h3{font-size: 21px;font-weight: 700;}
+
+	.header-logo-estado{margin-top: -27px;}
+
+
+	/*ADD fragment > custom.css  END */
+		.revo-slider-emphasis-text {
+			font-size: 58px;
+			font-weight: 700;
+			letter-spacing: 1px;
+			font-family: 'Raleway', sans-serif;
+			padding: 15px 20px;
+			border-top: 2px solid #FFF;
+			border-bottom: 2px solid #FFF;
+		}
+		.revo-slider-desc-text {
+			font-size: 20px;
+			font-family: 'Lato', sans-serif;
+			width: 650px;
+			text-align: center;
+			line-height: 1.5;
+		}
+		.revo-slider-caps-text {
+			font-size: 16px;
+			font-weight: 400;
+			letter-spacing: 3px;
+			font-family: 'Raleway', sans-serif;
+		}
+		.tp-video-play-button { display: none !important; }
+		.tp-caption { white-space: nowrap; }
+
+
+	#page-title{background-color: #0194da;border: 0px;}
+	#page-title h1, #page-title span, .breadcrumb a, .breadcrumb a:hover{color: #fff}
+	.breadcrumb > .active {
+		color: #ffffff;
+		font-weight: 500;
+	}
+	
+	.section {
+		position: relative;
+		margin: 0;
+		padding: 39px 0;
+		background-color: #F9F9F9;
+		overflow: hidden;
+	}
+
+	.list-icon-checked li i{
+		font-size: 23px;
+		color: #9fb73c;
+		position: relative;
+		top: 7px;
+	}
